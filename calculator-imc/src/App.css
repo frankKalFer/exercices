@@ -1,0 +1,31 @@
+.App {
+  font-family: Arial, sans-serif;
+  background-color: aqua;
+  max-width: 960px;
+  width: 100%;
+  align-items: baseline;
+  text-align: center;
+  margin: 0 auto;
+
+  padding: 30px 0;
+}
+
+form {
+  margin: 20px 0;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  color: #fff;
+  margin-top: 10px;
+  background-color: rgb(4, 0, 255);
+  padding: 8px;
+}
